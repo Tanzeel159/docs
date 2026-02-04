@@ -1,11 +1,14 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Tanzeel Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#e85d34",
+    "light": "#f87171",
+    "dark": "#d14a28"
+  },
+  "fonts": {
+    "family": "Inter"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -71,14 +74,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Portfolio",
+          "href": "https://tanzeel-portfolio.pages.dev",
+          "icon": "house"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Contact",
+          "href": "mailto:tanzeel.ahmed1306@gmail.com",
+          "icon": "envelope"
         }
       ]
     }
@@ -90,14 +93,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Contact",
+        "href": "mailto:tanzeel.ahmed1306@gmail.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Portfolio",
+      "href": "https://tanzeel-portfolio.pages.dev"
     }
   },
   "contextual": {
@@ -114,9 +117,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/Tanzeel159",
+      "x": "https://x.com/Tanzeel159",
+      "linkedin": "https://linkedin.com/in/tanzeel-ahmed"
     }
   }
 }
